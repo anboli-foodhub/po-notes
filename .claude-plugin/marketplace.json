@@ -1,0 +1,17 @@
+{
+  "name": "anboli-po-notes",
+  "owner": {
+    "name": "Anboli M",
+    "email": "anboli.m@foodhub.com"
+  },
+  "description": "Personal marketplace hosting the po-notes plugin.",
+  "plugins": [
+    {
+      "name": "po-notes",
+      "source": "./",
+      "description": "Generate a plain-business, PO-facing summary of a JIRA ticket's change in a customizable template.",
+      "category": "productivity",
+      "keywords": ["jira", "product-owner", "documentation"]
+    }
+  ]
+}

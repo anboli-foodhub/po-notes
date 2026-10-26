@@ -1,0 +1,10 @@
+{
+  "name": "po-notes",
+  "version": "1.0.0",
+  "description": "Generate a plain-business, PO-facing summary of a JIRA ticket's change (no file/code names) in a customizable template, then post it as a ticket comment after approval.",
+  "author": {
+    "name": "Anboli M",
+    "email": "anboli.m@foodhub.com"
+  },
+  "keywords": ["jira", "product-owner", "documentation", "productivity"]
+}
